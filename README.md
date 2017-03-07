@@ -6,4 +6,4 @@
 npm install 安装依赖包，然后通过node crawler执行爬虫，信息会打印在终端上。
 
 截图演示：
-![image](https://github.com/jinjianhua727/node-crawler-imooc/crawler.png)
+![image](https://raw.githubusercontent.com/jinjianhua727/node-crawler-imooc/master/crawler.png)
